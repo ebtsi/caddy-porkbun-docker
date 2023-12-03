@@ -24,4 +24,5 @@ jobs:
         with:
           file: Dockerfile
           push: true
-          tags: ghcr.io/ebtsi/caddy-porkbun-docker
+          tags: |
+            ghcr.io/ebtsi/caddy-porkbun-docker
