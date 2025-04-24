@@ -27,5 +27,5 @@ jobs:
             ghcr.io/ebtsi/caddy-porkbun-docker
             
       - name: Keepalive Workflow
-        uses: gautamkrishnar/keepalive-workflow@2.0.1
+        uses: gautamkrishnar/keepalive-workflow@2.0.10
           
